@@ -9,7 +9,7 @@ const defaultMeta = {
   description:
     'Landing page VPN TrimVPN Best VPN For Privacy, Country and Cheapest',
   // change base url of your web (without '/' at the end)
-  url: 'https://next-landing-vpn.vercel.app',
+  url: 'https://Trim-Vpn.vercel.app',
   type: 'website',
   robots: 'follow, index',
   // change with url of your image (recommended dimension = 1.91:1)
